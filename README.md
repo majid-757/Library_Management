@@ -1,2 +1,5 @@
-# Library_Management
-A small library management software written with Magic Python
+# Library Management
+
+A small library management software programmed with Python
+
+database : mysql
